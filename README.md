@@ -30,7 +30,7 @@ u3-css3-sitio/
 ```
 
 ## Requerimientos Implementados
-![Mi captura de pantalla](https://postimg.cc/w7HPgLms)
+![Mi captura de pantalla](https://i.postimg.cc/qMCdcGBQ/Captura-de-pantalla-2025-09-07-213903.png)
 - [x] **Repositorio GitHub**: Repositorio privado nombrado exactamente `u3-css3-sitio`.
 - [x] **10 Páginas HTML**: `index.html`, `acerca.html`, `servicios.html`, `contacto.html`, `blog.html`, `articulo1.html`, `articulo2.html`, `galeria.html`, `tabla.html`, `legal.html`.
 - [x] **Estructura de Carpetas**: Carpetas `/css`, `/img`, `/media` creadas.
